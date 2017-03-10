@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik+Mono+One');
+* {
+    font-family: Ostrich;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: #0fd380;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #0b9d5f;
+}
+
+.title {
+    font-size: 22px;
+    color: blueviolet;
+    text-align: center;
+}
